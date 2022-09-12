@@ -10,5 +10,5 @@ int main(int argc, char** argv)
             cout<<i<<'\t'<<argv[i]<<endl;
         }
     }
-    return 0;
+    return 1;
 }
